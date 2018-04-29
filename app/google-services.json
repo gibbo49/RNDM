@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234967314200",
+    "firebase_url": "https://rndm-69bee.firebaseio.com",
+    "project_id": "rndm-69bee",
+    "storage_bucket": "rndm-69bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234967314200:android:f1182ab05fd43c9c",
+        "android_client_info": {
+          "package_name": "com.chrisgibson.rndm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234967314200-i39v1qsrffvckoo6nqaklngosot4lqk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chrisgibson.rndm",
+            "certificate_hash": "8b42ef10ded28cc072d7a293d94223a9cf031cf2"
+          }
+        },
+        {
+          "client_id": "234967314200-lufj5vrmvvejdie9cru8mvovuebp771m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAfqatlAdZI_4ko7sApZI-tyi5E1tUbaA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234967314200-lufj5vrmvvejdie9cru8mvovuebp771m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
